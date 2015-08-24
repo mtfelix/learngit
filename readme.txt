@@ -1,4 +1,4 @@
-Create a new branch is quick.
+Create a new branch is quick & simple.
 
 I try git for the first time.
 
