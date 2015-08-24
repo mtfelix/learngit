@@ -1,4 +1,4 @@
-git1 chanmge a new line
+git1 and git2 chanmge a new line
 
 local change dev branch.
 
