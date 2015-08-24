@@ -1,3 +1,5 @@
+Create a new branch is quick.
+
 I try git for the first time.
 
 Before, I just use gitlab.
